@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a13f389d.css",
+    "main.js": "/static/js/main.d7c83a83.js",
+    "static/js/787.407a9bcb.chunk.js": "/static/js/787.407a9bcb.chunk.js",
+    "static/media/marketeers.png": "/static/media/marketeers.fd143bc0eeac288297c4.png",
+    "index.html": "/index.html",
+    "main.a13f389d.css.map": "/static/css/main.a13f389d.css.map",
+    "main.d7c83a83.js.map": "/static/js/main.d7c83a83.js.map",
+    "787.407a9bcb.chunk.js.map": "/static/js/787.407a9bcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a13f389d.css",
+    "static/js/main.d7c83a83.js"
+  ]
+}
